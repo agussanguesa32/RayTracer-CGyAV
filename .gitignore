@@ -1,0 +1,40 @@
+# Build y artefactos de CMake
+/build/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+install_manifest.txt
+Testing/
+
+# Compilacion C/C++
+*.o
+*.obj
+*.lo
+*.la
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.pch
+*.pdb
+*.ilk
+*.exp
+
+# Archivos de herramientas
+compile_commands.json
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.code-workspace
+
+# Archivos temporales
+*.tmp
+*.log
+*.swp
+*.swo
+*~
+
+
