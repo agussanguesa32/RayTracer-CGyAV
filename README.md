@@ -3,7 +3,7 @@
 Proyecto C++ sin frameworks de ray tracing. Genera imagen PPM con rayos primarios, intersecciones con esfera y triangulo, iluminacion Phong, sombras, reflexion y refraccion con Fresnel, mas modos de prueba.
 
 # Demo
-<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/a411935d-087b-482b-966a-84f75c1522b8" />
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/1e9700b2-1292-4267-9ecc-dec9e2b3fb4c" />
 
 
 ### Estructura de carpetas
